@@ -1,262 +1,235 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.6">
   <diagram name="Page-1" id="G8q_-3bnrvp6sk2CPmJ6">
-    <mxGraphModel dx="821" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1368" dy="1275" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--2" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Schéma organisationnel de la Chaîne OCR&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;de la BnF&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="110" height="40" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--2" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Schéma organisationnel de la Chaîne OCR&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;de la BnF&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--3" target="E4Revhg0i0v8jCNgAMJ--4">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--3" target="E4Revhg0i0v8jCNgAMJ--4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--3" target="E4Revhg0i0v8jCNgAMJ--21">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--3" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;div style=&quot;&quot;&gt;- Création de prestations&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Organisation des tests&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Gestion des marchés&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--4" target="E4Revhg0i0v8jCNgAMJ--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--3" target="E4Revhg0i0v8jCNgAMJ--21">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--4" value="- Numérisation&lt;div&gt;- Post production&lt;/div&gt;&lt;div&gt;- Saisie des métadonnées&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--5" target="E4Revhg0i0v8jCNgAMJ--6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--3" target="E4Revhg0i0v8jCNgAMJ--21">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--5" value="- Dépôt des paquets&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Contrôle des dépôts&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--6" target="E4Revhg0i0v8jCNgAMJ--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--3" value="Phase de test&lt;div&gt;Suivi de marché&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--6" value="- Rejet ou admission&lt;div&gt;- Préservation numérique&lt;/div&gt;&lt;div&gt;- Diffusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--4" target="E4Revhg0i0v8jCNgAMJ--5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--4" target="E4Revhg0i0v8jCNgAMJ--29">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--7" target="E4Revhg0i0v8jCNgAMJ--8">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="270" />
-            </Array>
+            <mxPoint x="140" y="1250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--4" value="Numérisation&lt;div&gt;Post production&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--7" value="Contrôle qualité par les départements et le pôle qualité du service num" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--5" target="E4Revhg0i0v8jCNgAMJ--6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--8" value="- Choix des documents à océriser&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Suivi de l&#39;océrisation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--5" target="E4Revhg0i0v8jCNgAMJ--36">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--3">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="390" />
-            </Array>
+            <mxPoint x="579.51" y="310" as="sourcePoint" />
+            <mxPoint x="679.51" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--5" value="Livraison" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--89" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe fonctionnelle&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Détermine les besoins&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Configurer les prestations et suivre les tests&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Résoudre les anomalies&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="215" y="170" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--6" target="E4Revhg0i0v8jCNgAMJ--7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--90" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe de production&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Veiller à l&#39;opérationnalité des applications&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Traiter les erreurs et anomalies&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Superviser l&#39;envoi technique des bordereaux&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--6" target="E4Revhg0i0v8jCNgAMJ--42">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--91" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Service de numérisati&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;&lt;u style=&quot;font-weight: 400;&quot;&gt;on&lt;/u&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Gérer les demandes de numérisation&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Assurer la régularité des mises à dispositions&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- S&#39;occuper de la réception et de la livraison des états des lieux&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="586" y="170" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" target="E4Revhg0i0v8jCNgAMJ--89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="sourcePoint" />
+            <mxPoint x="325" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--94" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484.71000000000004" y="310" as="sourcePoint" />
+            <mxPoint x="484.71000000000004" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--4">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="510" />
-            </Array>
+            <mxPoint x="395" y="540" as="sourcePoint" />
+            <mxPoint x="874.51" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--6" value="Contrôles Chaîne&lt;div&gt;d&#39;Entrée&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--96" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe métier&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Prépare le matériel nécessaire&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Effectuer des contrôles dans les ateliers internes&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="215" y="400" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--7" target="E4Revhg0i0v8jCNgAMJ--8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--97" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe de production&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Transformer les images et générer les paquets&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Traiter les erreurs et anomalies&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Superviser l&#39;envoi technique des bordereaux&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="410" y="400" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--7" target="E4Revhg0i0v8jCNgAMJ--56">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--98" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Service de numérisati&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;&lt;u style=&quot;font-weight: 400;&quot;&gt;on&lt;/u&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Suivre les demandes de numérisation&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Veiller à la régularité des mises à disposition et des livraisons.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="790" y="400" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--99" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" target="E4Revhg0i0v8jCNgAMJ--96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="540" as="sourcePoint" />
+            <mxPoint x="325" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494.71000000000004" y="540" as="sourcePoint" />
+            <mxPoint x="494.71000000000004" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--101" value="Phase Test&amp;nbsp;&lt;div&gt;Suivi de marché&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="287.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--102" value="Numérisation&amp;nbsp;&lt;div&gt;Post-production&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="517.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--104" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe de fonctionnelle&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Assurer la maintenance des applications&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Gérer les anomalies&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Offrir un support aux&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;utilisateurs&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684.58" y="540" as="sourcePoint" />
+            <mxPoint x="684.58" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="630" />
-            </Array>
+            <mxPoint x="200" y="730" as="sourcePoint" />
+            <mxPoint x="679.51" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--7" value="Contrôle qualité" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--114" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Bureau des chaînes numériques&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Gérer les espaces de stockage&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;- Corriger les erreurs détectées avant l&#39;intégration dans la chaîne.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="215" y="590" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4Revhg0i0v8jCNgAMJ--8" target="E4Revhg0i0v8jCNgAMJ--62">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--115" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe fonctionnelle&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Se concentrer sur la gestion des anomalies&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="400" y="590" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--116" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Service de numérisati&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;&lt;u style=&quot;font-weight: 400;&quot;&gt;on&lt;/u&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Suivre les demandes de numérisation&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Veiller à la livraison et contrôler les dépôts&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="586" y="590" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--117" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" target="E4Revhg0i0v8jCNgAMJ--114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="730" as="sourcePoint" />
+            <mxPoint x="325" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--118" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484.71000000000004" y="730" as="sourcePoint" />
+            <mxPoint x="484.71000000000004" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--119" value="Livraison" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="707.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="750" />
-            </Array>
+            <mxPoint x="200" y="920" as="sourcePoint" />
+            <mxPoint x="679.51" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--8" value="Traitement complémentaire&amp;nbsp;&lt;div&gt;OCR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--121" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Bureau des chaînes numériques&lt;/font&gt;&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;-&lt;font style=&quot;font-size: 8px;&quot;&gt; Gérer l&#39;infrastructure de la chaine d&#39;entrée&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- Gérer les erreurs et anomalies&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- Suivre la gestion des flux&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="215" y="780" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--21" value="Équipe fonctionnelle" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="E4Revhg0i0v8jCNgAMJ--26">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--123" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" target="E4Revhg0i0v8jCNgAMJ--121">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="150" as="sourcePoint" />
-            <mxPoint x="380" y="90" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="150" />
-            </Array>
+            <mxPoint x="300" y="920" as="sourcePoint" />
+            <mxPoint x="325" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--26" value="Équipe de production" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--27" value="Service Numérisation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--124" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="150" as="sourcePoint" />
-            <mxPoint x="620" y="100" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="150" />
-            </Array>
+            <mxPoint x="484.71000000000004" y="920" as="sourcePoint" />
+            <mxPoint x="484.71000000000004" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--29" value="Équipe métier" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--126" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe de fonctionnelle&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Assurer la maintenance des applications&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Gérer les erreurs et les anomalies&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Recueillir les besoins&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="400" y="780" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--31" value="Équipe production" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--127" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Service de numérisati&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;&lt;u style=&quot;font-weight: 400;&quot;&gt;on&lt;/u&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Suivre les décisions de rejet ou d&#39;admission&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Vérifier les métadonnées bibliographiques&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Émettre des bordereaux de contrôle&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="595" y="780" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--32" value="Équipe fonctionnelle" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1110" as="sourcePoint" />
+            <mxPoint x="679.51" y="1060" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--130" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Département de collections&lt;/font&gt;&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;-&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Contrôler la qualité des collections num&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;- Transmettre les demandes de réfection&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="215" y="970" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--131" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" target="E4Revhg0i0v8jCNgAMJ--130">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="270" as="sourcePoint" />
-            <mxPoint x="460" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="270" />
-            </Array>
+            <mxPoint x="300" y="1110" as="sourcePoint" />
+            <mxPoint x="325" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--132" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="270" as="sourcePoint" />
-            <mxPoint x="620" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="270" />
-            </Array>
+            <mxPoint x="484.71000000000004" y="1110" as="sourcePoint" />
+            <mxPoint x="484.71000000000004" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--36" value="&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;Bureau Chaine Numérique&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--133" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe de production et fonctionnelle&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Gérer les flux&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Corriger les erreurs et les anomalies&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Superviser l&#39;envoi des bordereaux&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="400" y="970" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--37" value="Équipe fonctionnelle" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--134" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Service de numérisati&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;&lt;u style=&quot;font-weight: 400;&quot;&gt;on (Pôle qualité)&lt;/u&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Procéder à des contrôles&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Créer des demandes de réfection&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="595" y="970" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--38" value="Service Num." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1309.5" as="sourcePoint" />
+            <mxPoint x="679.51" y="1259.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--137" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="390" as="sourcePoint" />
-            <mxPoint x="460" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="390" />
-            </Array>
+            <mxPoint x="300" y="1309.5" as="sourcePoint" />
+            <mxPoint x="300" y="1259.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--138" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="390" as="sourcePoint" />
-            <mxPoint x="620" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="390" />
-            </Array>
+            <mxPoint x="484.71000000000004" y="1309.5" as="sourcePoint" />
+            <mxPoint x="484.71000000000004" y="1259.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--42" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Bureau Chaine Numérique&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--139" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe fonctionnelle&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Gérer les erreurs et les anomalies&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;- Développer autour d&#39;ABBY&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1169.5" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--43" value="Équipe fonctionnelle" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--141" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Équipe de production&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Gérer les flux&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Corriger les erreurs et les anomalies&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Superviser l&#39;envoi des bordereaux&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1169.5" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--44" value="Service Num." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--142" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;u&gt;Service de numérisation&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Cartographier les processus&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Sélectionner les prestations adaptées pour la chaine OCR&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; text-align: center;&quot;&gt;- Gérer les demandes d&#39;OCR&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#0F8B8D;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1169.5" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="510" as="sourcePoint" />
-            <mxPoint x="460" y="490" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="510" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--143" value="Contrôles Chaine d&#39;Entrée" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="900" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="510" as="sourcePoint" />
-            <mxPoint x="620" y="490" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="510" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--144" value="Contrôle&lt;div&gt;Qualité&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="1090" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="270" as="sourcePoint" />
-            <mxPoint x="780" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="780" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--49" value="Service Numérisation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--56" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Dép. des Collections&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--57" value="Équipes Prod et Fonctionnelle" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--58" value="Service Num.&lt;div&gt;(Pôle qualité)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="630" as="sourcePoint" />
-            <mxPoint x="460" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="630" as="sourcePoint" />
-            <mxPoint x="620" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--62" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Service Num.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--63" value="Équipe production" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--64" value="Équipe fonctionnelle" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="750" as="sourcePoint" />
-            <mxPoint x="460" y="730" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E4Revhg0i0v8jCNgAMJ--66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="750" as="sourcePoint" />
-            <mxPoint x="620" y="730" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="750" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="E4Revhg0i0v8jCNgAMJ--145" value="Traitement OCR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="1290" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
